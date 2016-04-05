@@ -1,8 +1,3 @@
 # hello-world
-Fuck you, mark
-
-
-Mark is a terrible person.
-
-Die.
-
+Shoutout to my living acquaintance Mark Old.
+Hello World
